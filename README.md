@@ -88,21 +88,23 @@ ATM-Banking-Interface
 ---
 ##⚙️ How to Run the Project
 1️⃣ Clone the Repository
-
+   
+  ```bash
 git clone https://github.com/abdelr7man26/ATM-Banking-Interface.git
-
+ ```
 2️⃣ Navigate to the Project Folder
+  ```bash
 
 cd ATM-Banking-Interface
-
+```
 3️⃣ Compile the Program
-
+  ```bash
 g++ main.cpp -o BankSystem
-
+```
 4️⃣ Run the Application
-
+  ```bash
 ./ATM
-
+```
 
 ---
 ## 📖 Example Usage
