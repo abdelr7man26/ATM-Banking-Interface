@@ -97,11 +97,11 @@ cd ATM-Banking-Interface
 
 3️⃣ Compile the Program
 
-javac *.java
+g++ main.cpp -o BankSystem
 
 4️⃣ Run the Application
 
-java Main
+./ATM
 
 
 ---
